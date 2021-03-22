@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "20bc79c55b5b0c7acde3f87132635cbb"
+build_time: [1610698389, 724170000]
+inputs:
+  "/Volumes/MacLabData/React Native Projects/szizle-szizleapp/ios/Pods/YogaKit/YogaKit/Source/YGLayoutExtensions.swift": [1609255647, 696033316]

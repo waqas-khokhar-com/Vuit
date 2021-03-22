@@ -1,0 +1,6 @@
+module Pods_SzizleApp {
+  umbrella header "Pods-SzizleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
